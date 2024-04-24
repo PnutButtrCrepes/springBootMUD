@@ -1,0 +1,4 @@
+X		X		X		X
+X		P		F		X
+X		SP		F		X
+X		X		X		X
